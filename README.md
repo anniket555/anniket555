@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anniket555
 - 👀 I’m interested in Java Developer
-- 🌱 I’m currently learning JSP, Spring, Springboot, Postman
+- 🌱 I’m currently learning OOPs, Multithreading, Collections, SQL, Javafx, JSP, Spring, Springboot, Postman
 - 📫 How to reach me ... aniketpethani7@gmail.com
 
 <!---
